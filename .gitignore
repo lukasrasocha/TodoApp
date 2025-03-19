@@ -3,7 +3,7 @@
 
 *~
 *.sw[mnpcod]
-.tmp
+.tmp 
 *.tmp
 *.tmp.*
 UserInterfaceState.xcuserstate
