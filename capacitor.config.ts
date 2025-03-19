@@ -4,7 +4,7 @@ const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
   appName: 'todoApp',
   webDir: 'www',
-  server: {
+  server: { 
     androidScheme: 'https'
   }
 };
