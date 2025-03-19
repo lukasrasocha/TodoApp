@@ -30,7 +30,7 @@
         "@angular-eslint/directive-selector": [
           "error",
           {
-            "type": "attribute",
+            "type": "attribute", 
             "prefix": "app",
             "style": "camelCase"
           }
